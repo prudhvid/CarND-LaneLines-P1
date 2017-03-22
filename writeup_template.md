@@ -58,14 +58,14 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 
 
-###2. Identify potential shortcomings with your current pipeline
+### 2. Identify potential shortcomings with your current pipeline
 
 One potential shortcoming would be what would happen when ... 
 When there is no line detected by the hough_lines function, then my algorithm will not draw any line at all
 Another shortcoming could be ...
 Flickering. It is more when compared to the video that was given in example
 
-###3. Suggest possible improvements to your pipeline
+### 3. Suggest possible improvements to your pipeline
 
 A possible improvement would be to ...
 Taking color into consideration. This should be necessary for the challenge video
